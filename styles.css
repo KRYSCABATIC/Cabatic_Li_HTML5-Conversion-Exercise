@@ -54,7 +54,7 @@ body{
     text-justify: auto;
     text-align: center;
     margin: auto;
-    border: 2px solid rgb(89, 65, 141);
+    border: 2\3px solid rgb(89, 65, 141);
     padding: auto;
     background-color: rgb(204, 171, 254);
 
@@ -73,4 +73,5 @@ body{
     top: 30px;
 	left: 60px;
     height: 100px;
+
 }
